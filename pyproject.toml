@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "anvil"
+name = "anvil-atui"
 version = "1.0.0"
 description = "Console output manager with spinners, progress bars, and styled UI"
 readme = "README.md"
