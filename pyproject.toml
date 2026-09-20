@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "anvil-atui"
-version = "1.0.0"
+version = "0.1.5"
 description = "Console output manager with spinners, progress bars, and styled UI"
 readme = "README.md"
 requires-python = ">=3.8"
