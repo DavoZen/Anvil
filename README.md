@@ -7,7 +7,7 @@ Styled console output for Python. Zero dependencies.
 ## Install
 
 ```bash
-pip install anvil
+pip install anvil-atui
 ```
 
 ## Usage
